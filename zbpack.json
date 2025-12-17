@@ -1,0 +1,8 @@
+{
+  "dockerfile": "Dockerfile",
+  "build_command": "echo 'Using Docker build'",
+  "cache_directories": [
+    "/root/.cache/pypoetry",
+    "/root/.cache/pip"
+  ]
+}
