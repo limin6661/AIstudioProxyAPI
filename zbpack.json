@@ -1,5 +1,5 @@
 {
-  "dockerfile": "Dockerfile",
+  "dockerfile": "docker/Dockerfile",
   "build_command": "echo 'Using Docker build'",
   "cache_directories": [
     "/root/.cache/pypoetry",
